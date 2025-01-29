@@ -12,10 +12,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📊 GitHub Commit Graph
-
-![GitHub Commit Graph](https://github-readme-stats.vercel.app/api?username=umarmuhdhor&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=umarmuhdhor&icon=0&color=0)](https://visitcount.itsvg.in)
 
